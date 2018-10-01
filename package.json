@@ -1,0 +1,35 @@
+{
+  "name": "high-order-functions",
+  "version": "1.0.0",
+  "description": "Chapter 5 of 'Eloquent Javascript'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-MII-CA-1718/ejs-chapter05-higher-order-functions.git"
+  },
+  "keywords": [
+    "high order functions",
+    "eloquent-javascript",
+    "javascript"
+  ],
+  "author": "Casiano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-MII-CA-1718/electronic-life-KevMCh/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-MII-CA-1718/ejs-chapter05-higher-order-functions/blob/master/README.md",
+  "devDependencies": {
+    "assert": "*",
+    "gulp": "*",
+    "gulp-shell": "*",
+    "mocha": "*",
+    "should": "*"
+  },
+  "dependencies": {},
+  "directories": {
+    "test": "test"
+  }
+}
