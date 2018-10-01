@@ -9,4 +9,14 @@ for (let char of roseDragon) {
   console.log(char);
 }
 // → 🌹
-// → 🐉
+// → 🐉 
+
+/*
+  atom package: character-table
+  CMD-SHIFT-P character -> toggle -> search for character
+
+  ä: ctrl-cmd-k a
+  α: ctrl-cmd-k a *
+  β: ctrl-cmd-k b *
+
+*/
